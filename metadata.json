@@ -1,0 +1,20 @@
+{
+    "name": "RTS: Survivors of the Void",
+    "description": "(WIP) Backport of Risk of Rain 2's Survivors of the Void Expansion!",
+	"internalname": "rts-void",
+    "version": "0.1",
+    "author": "The RTS Team",
+    "mpcompat": true,
+    "dependencies": [
+      {
+        "name": "Starstorm",
+        "version": "1.11.0",
+        "optional": true
+      },
+      {
+        "name": "rts-reborn",
+        "version": "0.1",
+        "optional": false
+      }
+    ]
+}
